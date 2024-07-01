@@ -1,8 +1,8 @@
 -- ownerIds.lua
 
-local idgg = {
+local idvi = {
     1309808818, 
     06,
 }
 
-return idgg
+return idvi
