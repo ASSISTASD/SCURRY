@@ -1,7 +1,7 @@
 -- ownerIds.lua
 
 local ownerIds = {
-    123456789, -- Replace with actual user IDs
+    1309808818, -- Replace with actual user IDs
     987654321,
     -- Add more IDs as needed
 }
